@@ -1,0 +1,11 @@
+{
+  "name": "quran-ts-juz-hizb-paginator",
+  "version": "1.0.0",
+  "description": "Mushaf Juz, Hizb, Rub & Madinah Page Boundary Calculator (مقسم الأجزاء والأحزاب والأرباع ومواقع الصفحات)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
